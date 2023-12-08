@@ -32,10 +32,10 @@ This should offer you a simple and effective way to manage your passwords using 
 # The Team
 
 ### CTO
-Antti / Ananazzo
+/ Ananazzo
 
 ### CSO
-Elmo / el6853
+/ el6853
 
 ### part-time minimum wage janitor / CDO 
-Simo / SimoErola - minimum wage part-time janitor
+/ SImoErola - minimum wage part-time janitor
